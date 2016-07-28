@@ -16,7 +16,7 @@
 
 实际上协议栈内部就是这么干的。下图是基于DPDK开发协议栈的一种设计：
 
-![Alt text](https://github.com/carrier001/blog/blob/master/d_1.png "") 
+![Alt text](https://github.com/carrier001/blog/blob/master/d_2.png "") 
 
 * 数据解封装
 
@@ -24,7 +24,7 @@
 
 下图是处理方式
 
-![Alt text](https://github.com/carrier001/blog/blob/master/d_2.png "") 
+![Alt text](https://github.com/carrier001/blog/blob/master/d_1.png "") 
 
 * 下面的就是数据帧、数据包、数据段啊，其实就是上层数据加上或者减去各层的头而已嘛，基础知识是不是也不枯燥，也很简单，耶^_^
 
